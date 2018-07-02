@@ -1,0 +1,12 @@
+E:\Coding\Sophie\Sophie\bin\Release\Sophie.exe.config
+E:\Coding\Sophie\Sophie\bin\Release\Sophie.exe
+E:\Coding\Sophie\Sophie\bin\Release\Sophie.pdb
+E:\Coding\Sophie\Sophie\bin\Release\WpfAnimatedGif.dll
+E:\Coding\Sophie\Sophie\bin\Release\WpfAnimatedGif.xml
+E:\Coding\Sophie\Sophie\obj\Release\Sophie.Form1.resources
+E:\Coding\Sophie\Sophie\obj\Release\Sophie.Properties.Resources.resources
+E:\Coding\Sophie\Sophie\obj\Release\Sophie.csproj.GenerateResource.cache
+E:\Coding\Sophie\Sophie\obj\Release\Sophie.csproj.CoreCompileInputs.cache
+E:\Coding\Sophie\Sophie\obj\Release\Sophie.csproj.CopyComplete
+E:\Coding\Sophie\Sophie\obj\Release\Sophie.exe
+E:\Coding\Sophie\Sophie\obj\Release\Sophie.pdb
